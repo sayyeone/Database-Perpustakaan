@@ -12,11 +12,11 @@ Keep it simple. No frameworks, no external dependencies. Just MySQL/MariaDB with
 
 ## Getting Started
 
-**Option 1 — Import via MySQL CLI**
+**Option 1 Import via MySQL CLI**
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/perpustakaan-db.git
+git clone https://github.com/sayyeone/perpustakaan-db.git
 cd perpustakaan-db
 ```
 
@@ -52,7 +52,7 @@ The database consists of 4 main tables: **categories** (book categorization), **
 
 **ERD Diagram:**
 
-![ERD Diagram](./erd.png)
+![ERD Diagram](perpustakaan-db.png)
 
 You can also view the interactive diagram on [dbdiagram.io](https://dbdiagram.io/d/perpustakaan-db-67d6a76375d75cc8443e5f21) by importing the DBML file.
 
