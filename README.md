@@ -25,7 +25,7 @@ Import the database:
 mysql -u root -p < perpus_db.sql
 ```
 
-**Option 2 — Use a GUI Tool (recommended)**
+**Option 2 Use a GUI Tool (recommended)**
 
 You can also import `perpus_db.sql` using phpMyAdmin, DBeaver, HeidiSQL, or any MySQL client. Open the tool, create a new connection, import the SQL file, and you're done. The full schema and sample data will appear instantly.
 
