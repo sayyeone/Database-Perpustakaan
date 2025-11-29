@@ -78,4 +78,4 @@ Created as a learning project to make relational database concepts easy to under
 
 ---
 
-Made with 📚 for database learners everywhere.
+Made with ❤️ by [Sayyeone](https://github.com/sayyeone)
